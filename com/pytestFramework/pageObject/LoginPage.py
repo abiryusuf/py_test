@@ -1,6 +1,5 @@
-from selenium import webdriver
 
-class Login:
+class LoginPage:
     text_username_id = "Email"
     text_password_id = "Password"
     button_login = "//*[@class='button-1 login-button']"

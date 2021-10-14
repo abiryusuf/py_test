@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99606583-609c-41a0-97d8-663579d9f341" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/pytestFramework/pageObject/LoginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pytestFramework/testCase/Login_Test_Case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pytestFramework/pageObject/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/pytestFramework/pageObject/LoginPage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
